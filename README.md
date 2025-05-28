@@ -1,2 +1,2 @@
 # Presentations
-Slide stes for variuos talks and also PDFs
+Slide sets for various talks and also PDFs
